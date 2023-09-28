@@ -3,3 +3,4 @@
 /monitor/mysql
 /monitor/prometheus/data
 
+*/.idea/
