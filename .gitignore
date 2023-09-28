@@ -1,0 +1,5 @@
+/monitor/etc/
+/monitor/grafana
+/monitor/mysql
+/monitor/prometheus/data
+
