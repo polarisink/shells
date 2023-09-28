@@ -1,2 +1,3 @@
-docker rm -f elk_elasticsearch elk_kibana elk_logstash
+docker rm -f elasticsearch kibana logstash
+chmod 777 ./es
 docker-compose up -d

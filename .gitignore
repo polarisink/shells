@@ -2,5 +2,5 @@
 /monitor/grafana
 /monitor/mysql
 /monitor/prometheus/data
-
-*/.idea/
+.idea/
+node_modules
